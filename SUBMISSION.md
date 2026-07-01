@@ -8,6 +8,23 @@
 >
 > **GitHub Repository:** https://github.com/adeelshah41/auto-analyst
 
+### 📸 Prototype Screenshots
+
+#### 1. Overview Tab (Dataset Selection & Summary Statistics)
+![Overview Tab](screenshots/01_overview.png)
+
+#### 2. Analysis Tab (Scatter Plot Explorer with Trendline)
+![Scatter Plot Explorer](screenshots/02_scatter_plot.png)
+
+#### 3. Correlations Tab (Correlation Findings)
+![Correlations Tab](screenshots/03_correlations.png)
+
+#### 4. AI Insights Tab (Executive Summary & Key Findings)
+![AI Insights Findings](screenshots/04_ai_insights_findings.png)
+
+#### 5. AI Insights Tab (Recommendations)
+![AI Insights Recommendations](screenshots/05_ai_insights_recommendations.png)
+
 ### How to Deploy (Streamlit Community Cloud — Free)
 
 1. Push this project to a **public GitHub repository**
@@ -31,7 +48,7 @@
 
 ---
 
-## 💡 100-Word Summary
+## Summary
 
 **The Auto-Analyst** is an AI-powered data analysis tool built with Streamlit that automatically interprets datasets, detects patterns, and generates natural-language insights. It supports three curated datasets — Gapminder (global development indicators), Tips (restaurant tipping behavior), and the World Happiness Report (country wellbeing from Kaggle). The application performs comprehensive statistical analysis including correlation detection, outlier identification, trend analysis, and K-Means clustering. Its dual-mode insight engine uses GROQ AI (LLaMA 3.3 70B) as the primary generator, with a deterministic rule-based fallback ensuring reliability. Interactive Plotly visualizations with a premium dark theme deliver a professional, intuitive analysis experience.
 
