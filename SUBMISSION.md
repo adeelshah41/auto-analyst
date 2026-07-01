@@ -4,9 +4,9 @@
 
 ## 📎 Public Prototype Link
 
-> **Streamlit App:** *(Add your deployed link here after deploying to Streamlit Community Cloud)*
+> **Streamlit App:** https://auto-analyst.streamlit.app/
 >
-> **GitHub Repository:** *(Add your GitHub repo link here after pushing)*
+> **GitHub Repository:** https://github.com/adeelshah41/auto-analyst
 
 ### How to Deploy (Streamlit Community Cloud — Free)
 
